@@ -1,7 +1,8 @@
 // 
 // Trinket-LEDs 
 //
-// Description of the project
+// Trinket board doing stuff with LEDs
+//
 // Developed with [embedXcode](http://embedXcode.weebly.com)
 // 
 // Author	 	Geert Altena
@@ -11,7 +12,7 @@
 // Version		<#version#>
 // 
 // Copyright	© Geert Altena, 2014
-// License		<#license#>
+// License		license
 //
 // See			ReadMe.txt for references
 //
